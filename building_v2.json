@@ -1,6 +1,7 @@
 {
   "root": {
     "parent": "none",
+    "gallery_name": "Nice-Webb Galleries",
     "resource": "root.glb",
     "template": "T_root_B.glb",
     "Nature_Mountains": {
