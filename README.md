@@ -10,6 +10,8 @@ Your virtual 3D art gallery is ready to deploy!
 Your images are already included in the ZIP under these folders:
 - Nature_Mountains/
 - Nature_Pathways/
+- Nature_Water_and_Forest/
+- Nature_Wildlife/
 
 ## Folder Structure
 
@@ -22,6 +24,8 @@ your-gallery/
 ├── materials/          # Textures and materials
 ├── Nature_Mountains/               # Your images
 ├── Nature_Pathways/               # Your images
+├── Nature_Water_and_Forest/               # Your images
+├── Nature_Wildlife/               # Your images
 ├── overlay.js          # UI overlay
 ├── overlay.html        # UI overlay markup
 ├── overlay.css         # UI styles

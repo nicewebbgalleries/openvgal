@@ -1,7 +1,6 @@
 {
   "root": {
     "parent": "none",
-    "gallery_name": "Nice-Webb Galleries",
     "resource": "root.glb",
     "template": "T_root_B.glb",
     "Nature_Mountains": {
@@ -10,6 +9,14 @@
     },
     "Nature_Pathways": {
       "resource": "Nature_Pathways.glb",
+      "resource_type": "door"
+    },
+    "Nature_Water_and_Forest": {
+      "resource": "Nature_Water_and_Forest.glb",
+      "resource_type": "door"
+    },
+    "Nature_Wildlife": {
+      "resource": "Nature_Wildlife.glb",
       "resource_type": "door"
     }
   },
@@ -24,8 +31,8 @@
       "height": "89.02",
       "location": "[14.922,7.872,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #0 Across the Way"
-      },
+      "metadata": "ID #0 Across the Way\nnicewebb.photography"
+    },
     "East Fork": {
       "resource": "/Nature_Mountains/East Fork.jpg",
       "resource_type": "image",
@@ -33,7 +40,7 @@
       "height": "67.28",
       "location": "[-14.929,-7.701,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #1 East Fork"
+      "metadata": "ID #1 East Fork\nnicewebb.photography"
     },
     "Looking Glass Rock": {
       "resource": "/Nature_Mountains/Looking Glass Rock.jpg",
@@ -42,7 +49,7 @@
       "height": "78.60",
       "location": "[5.435,14.922,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #2 Looking Glass Rock"
+      "metadata": "ID #2 Looking Glass Rock\nnicewebb.photography"
     },
     "Mountain Fall Leaf Colors": {
       "resource": "/Nature_Mountains/Mountain Fall Leaf Colors.jpg",
@@ -51,7 +58,7 @@
       "height": "79.88",
       "location": "[-10.665,14.912,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #3 Mountain Fall Leaf Colors"
+      "metadata": "ID #3 Mountain Fall Leaf Colors\nnicewebb.photography"
     },
     "Mountain Ridges": {
       "resource": "/Nature_Mountains/Mountain Ridges.jpg",
@@ -60,7 +67,7 @@
       "height": "79.28",
       "location": "[8.021,-14.926,2.000]",
       "vector": "[0.0,1.0]",
-      "metadata": "ID #4 Mountain Ridges"
+      "metadata": "ID #4 Mountain Ridges\nnicewebb.photography"
     },
     "Mountain Vista": {
       "resource": "/Nature_Mountains/Mountain Vista.jpg",
@@ -69,7 +76,7 @@
       "height": "79.42",
       "location": "[-8.078,-14.926,2.000]",
       "vector": "[0.0,1.0]",
-      "metadata": "ID #5 Mountain Vista"
+      "metadata": "ID #5 Mountain Vista\nnicewebb.photography"
     },
     "Mountainside View": {
       "resource": "/Nature_Mountains/Mountainside View.jpg",
@@ -78,7 +85,7 @@
       "height": "90.00",
       "location": "[14.922,-0.016,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #6 Mountainside View"
+      "metadata": "ID #6 Mountainside View\nnicewebb.photography"
     },
     "One More Gaze": {
       "resource": "/Nature_Mountains/One More Gaze.jpg",
@@ -87,7 +94,7 @@
       "height": "89.55",
       "location": "[-14.929,0.397,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #7 One More Gaze"
+      "metadata": "ID #7 One More Gaze\nnicewebb.photography"
     },
     "Parkway View": {
       "resource": "/Nature_Mountains/Parkway View.jpg",
@@ -96,7 +103,7 @@
       "height": "79.28",
       "location": "[14.922,-7.903,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #8 Parkway View"
+      "metadata": "ID #8 Parkway View\nnicewebb.photography"
     },
     "Profile of Tranquil Stone": {
       "resource": "/Nature_Mountains/Profile of Tranquil Stone.jpg",
@@ -105,7 +112,7 @@
       "height": "120.00",
       "location": "[-14.929,8.074,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #9 Profile of Tranquil Stone"
+      "metadata": "ID #9 Profile of Tranquil Stone\nnicewebb.photography"
     },
     "Relax and Take In the View": {
       "resource": "/Nature_Mountains/Relax and Take In the View.jpg",
@@ -114,7 +121,7 @@
       "height": "78.90",
       "location": "[10.607,14.922,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #10 Relax and Take In the View"
+      "metadata": "ID #10 Relax and Take In the View\nnicewebb.photography"
     },
     "Whispers Along the Autumn Ridge": {
       "resource": "/Nature_Mountains/Whispers Along the Autumn Ridge.jpg",
@@ -123,7 +130,7 @@
       "height": "66.97",
       "location": "[-5.492,14.912,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #11 Whispers Along the Autumn Ridge"
+      "metadata": "ID #11 Whispers Along the Autumn Ridge\nnicewebb.photography"
     },
     "root": {
       "resource": "root.glb",
@@ -141,7 +148,7 @@
       "height": "79.35",
       "location": "[14.922,7.660,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #12 Autumn Pathway Serenity"
+      "metadata": "ID #12 Autumn Pathway Serenity\nnicewebb.photography"
     },
     "Autumn Resolve": {
       "resource": "/Nature_Pathways/Autumn Resolve.jpg",
@@ -150,7 +157,7 @@
       "height": "79.80",
       "location": "[-14.929,-7.911,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #13 Autumn Resolve"
+      "metadata": "ID #13 Autumn Resolve\nnicewebb.photography"
     },
     "Bridging Transitions": {
       "resource": "/Nature_Pathways/Bridging Transitions.jpg",
@@ -159,7 +166,7 @@
       "height": "95.63",
       "location": "[5.435,14.922,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #14 Bridging Transitions"
+      "metadata": "ID #14 Bridging Transitions\nnicewebb.photography"
     },
     "Dogwood by the Lake": {
       "resource": "/Nature_Pathways/Dogwood by the Lake.jpg",
@@ -168,7 +175,7 @@
       "height": "79.73",
       "location": "[-10.380,14.912,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #15 Dogwood by the Lake"
+      "metadata": "ID #15 Dogwood by the Lake\nnicewebb.photography"
     },
     "Dogwood Pathway": {
       "resource": "/Nature_Pathways/Dogwood Pathway.jpg",
@@ -177,7 +184,7 @@
       "height": "79.28",
       "location": "[8.021,-14.926,2.000]",
       "vector": "[0.0,1.0]",
-      "metadata": "ID #16 Dogwood Pathway"
+      "metadata": "ID #16 Dogwood Pathway\nnicewebb.photography"
     },
     "Enchanted Pathway": {
       "resource": "/Nature_Pathways/Enchanted Pathway.jpg",
@@ -186,7 +193,7 @@
       "height": "79.65",
       "location": "[-8.078,-14.926,2.000]",
       "vector": "[0.0,1.0]",
-      "metadata": "ID #17 Enchanted Pathway"
+      "metadata": "ID #17 Enchanted Pathway\nnicewebb.photography"
     },
     "Enjoy the Journey": {
       "resource": "/Nature_Pathways/Enjoy the Journey.jpg",
@@ -195,7 +202,7 @@
       "height": "120.00",
       "location": "[14.922,-0.016,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #18 Enjoy the Journey"
+      "metadata": "ID #18 Enjoy the Journey\nnicewebb.photography"
     },
     "Morning Light": {
       "resource": "/Nature_Pathways/Morning Light.jpg",
@@ -204,7 +211,7 @@
       "height": "80.17",
       "location": "[-14.929,-0.023,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #19 Morning Light"
+      "metadata": "ID #19 Morning Light\nnicewebb.photography"
     },
     "Serene Forest Pathway": {
       "resource": "/Nature_Pathways/Serene Forest Pathway.jpg",
@@ -213,7 +220,7 @@
       "height": "67.13",
       "location": "[14.922,-7.691,2.000]",
       "vector": "[-1.0,0.0]",
-      "metadata": "ID #20 Serene Forest Pathway"
+      "metadata": "ID #20 Serene Forest Pathway\nnicewebb.photography"
     },
     "Time for a Walk #1": {
       "resource": "/Nature_Pathways/Time for a Walk #1.jpg",
@@ -222,7 +229,7 @@
       "height": "79.50",
       "location": "[-14.929,7.864,2.000]",
       "vector": "[1.0,0.0]",
-      "metadata": "ID #21 Time for a Walk #1"
+      "metadata": "ID #21 Time for a Walk #1\nnicewebb.photography"
     },
     "Walk With Me": {
       "resource": "/Nature_Pathways/Walk With Me.jpg",
@@ -231,7 +238,7 @@
       "height": "89.40",
       "location": "[10.607,14.922,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #22 Walk With Me"
+      "metadata": "ID #22 Walk With Me\nnicewebb.photography"
     },
     "Whispers of the Stone Path": {
       "resource": "/Nature_Pathways/Whispers of the Stone Path.jpg",
@@ -240,7 +247,241 @@
       "height": "120.00",
       "location": "[-5.350,14.912,2.000]",
       "vector": "[0.0,-1.0]",
-      "metadata": "ID #23 Whispers of the Stone Path"
+      "metadata": "ID #23 Whispers of the Stone Path\nnicewebb.photography"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Nature_Water_and_Forest": {
+    "parent": "root",
+    "resource": "Nature_Water_and_Forest.glb",
+    "template": "T_small_B.glb",
+    "A Distant Gaze": {
+      "resource": "/Nature_Water_and_Forest/A Distant Gaze.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.28",
+      "location": "[14.922,7.872,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #24 A Distant Gaze\nnicewebb.photography"
+    },
+    "A Great View": {
+      "resource": "/Nature_Water_and_Forest/A Great View.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "66.83",
+      "location": "[-14.929,-7.911,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #25 A Great View\nnicewebb.photography"
+    },
+    "A Place To Ponder": {
+      "resource": "/Nature_Water_and_Forest/A Place To Ponder.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.50",
+      "location": "[5.435,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #26 A Place To Ponder\nnicewebb.photography"
+    },
+    "And the River Flows On": {
+      "resource": "/Nature_Water_and_Forest/And the River Flows On.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "86.40",
+      "location": "[-10.665,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #27 And the River Flows On\nnicewebb.photography"
+    },
+    "Autumn Memories": {
+      "resource": "/Nature_Water_and_Forest/Autumn Memories.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.42",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #28 Autumn Memories\nnicewebb.photography"
+    },
+    "Edith_Carrier_Arboretum": {
+      "resource": "/Nature_Water_and_Forest/Edith_Carrier_Arboretum.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.35",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #29 Edith_Carrier_Arboretum\nnicewebb.photography"
+    },
+    "Forest Stairway": {
+      "resource": "/Nature_Water_and_Forest/Forest Stairway.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.33",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #30 Forest Stairway\nnicewebb.photography"
+    },
+    "From A Distance": {
+      "resource": "/Nature_Water_and_Forest/From A Distance.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.35",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #31 From A Distance\nnicewebb.photography"
+    },
+    "Lake Tomahawk": {
+      "resource": "/Nature_Water_and_Forest/Lake Tomahawk.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.63",
+      "location": "[14.922,-7.903,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #32 Lake Tomahawk\nnicewebb.photography"
+    },
+    "Reflections at Beaver Lake": {
+      "resource": "/Nature_Water_and_Forest/Reflections at Beaver Lake.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "63.82",
+      "location": "[-14.929,7.864,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #33 Reflections at Beaver Lake\nnicewebb.photography"
+    },
+    "Stillness Carried by Water": {
+      "resource": "/Nature_Water_and_Forest/Stillness Carried by Water.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "66.52",
+      "location": "[10.607,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #34 Stillness Carried by Water\nnicewebb.photography"
+    },
+    "Whispers of Forest Wisdom": {
+      "resource": "/Nature_Water_and_Forest/Whispers of Forest Wisdom.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.73",
+      "location": "[-5.492,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #35 Whispers of Forest Wisdom\nnicewebb.photography"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Nature_Wildlife": {
+    "parent": "root",
+    "resource": "Nature_Wildlife.glb",
+    "template": "T_small_B.glb",
+    "Beaver Lake Gathering": {
+      "resource": "/Nature_Wildlife/Beaver Lake Gathering.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.20",
+      "location": "[14.922,7.731,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #36 Beaver Lake Gathering\nnicewebb.photography"
+    },
+    "Big Brown Toad": {
+      "resource": "/Nature_Wildlife/Big Brown Toad.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.78",
+      "location": "[-14.929,-7.911,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #37 Big Brown Toad\nnicewebb.photography"
+    },
+    "Black Swallowtail Butterfly": {
+      "resource": "/Nature_Wildlife/Black Swallowtail Butterfly.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.78",
+      "location": "[5.435,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #38 Black Swallowtail Butterfly\nnicewebb.photography"
+    },
+    "Bluebird Breakfast Feeding": {
+      "resource": "/Nature_Wildlife/Bluebird Breakfast Feeding.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "92.77",
+      "location": "[-10.665,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #39 Bluebird Breakfast Feeding\nnicewebb.photography"
+    },
+    "Dragonfly": {
+      "resource": "/Nature_Wildlife/Dragonfly.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.05",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #40 Dragonfly\nnicewebb.photography"
+    },
+    "Enjoying the Present": {
+      "resource": "/Nature_Wildlife/Enjoying the Present.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "79.05",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #41 Enjoying the Present\nnicewebb.photography"
+    },
+    "Hummingbird Moth Hovering": {
+      "resource": "/Nature_Wildlife/Hummingbird Moth Hovering.jpg",
+      "resource_type": "image",
+      "width": "92.93",
+      "height": "120.00",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #42 Hummingbird Moth Hovering\nnicewebb.photography"
+    },
+    "Momma and Ducklings": {
+      "resource": "/Nature_Wildlife/Momma and Ducklings.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "72.75",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #43 Momma and Ducklings\nnicewebb.photography"
+    },
+    "Peace In The Valley": {
+      "resource": "/Nature_Wildlife/Peace In The Valley.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "87.00",
+      "location": "[14.922,-7.762,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #44 Peace In The Valley\nnicewebb.photography"
+    },
+    "Rabbit": {
+      "resource": "/Nature_Wildlife/Rabbit.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "97.05",
+      "location": "[-14.929,7.864,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #45 Rabbit\nnicewebb.photography"
+    },
+    "Resting Duck": {
+      "resource": "/Nature_Wildlife/Resting Duck.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.00",
+      "location": "[10.607,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #46 Resting Duck\nnicewebb.photography"
+    },
+    "Taking A Moment To Rest": {
+      "resource": "/Nature_Wildlife/Taking A Moment To Rest.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "66.75",
+      "location": "[-5.492,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #47 Taking A Moment To Rest\nnicewebb.photography"
     },
     "root": {
       "resource": "root.glb",
